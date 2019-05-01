@@ -1,0 +1,4 @@
+# statutoryholidays.yml
+---
+statutory-holidays:
+  value: [12 01 2019, 13 02 2019, 14 03 2019 ]
